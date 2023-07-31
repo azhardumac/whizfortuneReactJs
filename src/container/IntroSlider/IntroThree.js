@@ -12,16 +12,16 @@ const IntroThree = () => {
 
                     <div className="col align-self-center">
                         <div className="intro-content-two headline-active text-center mt-xl-8 mt-lg-8 mt-md-8 mt-sm-8 mt-xs-8">
-                            <h2 className="title ah-headline">Designing {" "} 
+                            <h2 className="title ah-headline">Software{" "} 
                             <Typewriter
                                 options={{
-                                    strings: ["awesome", "wonderful", "beautiful"],
+                                    strings: ["Design", "Development", "Testing"],
                                     autoStart: true,
                                     loop: true,
                                     deleteSpeed: 110
                                 }}
                             />
-                            brands &amp; experiences </h2>
+                            Development &amp; Digital Marketing  </h2>
                             <div className="desc">
                                 <p>We are an agency located in New York. We think strategy, craft design,
                                     develop digital and create motion. To forward your brand and business.</p>

@@ -4,7 +4,7 @@
     --clr-body-bg: white;
     --clr-body: #748494;
     --clr-heading: #030f27;
-    --clr-primary: #1292ee;
+    --clr-primary: #15A7CE;
     --clr-primary-two: #3a7e69;
     --clr-primary-three: #ef6f31;
     --clr-secondary: #748494;
@@ -38,8 +38,9 @@
 
 
     // Font Family
-    --ff-mulish: 'Mulish', sans-serif;
-    --ff-body: var(--ff-mulish);
+    --ff-mulish: 'Yeseva One', cursive;
+    --ff-mulish2:'Fredoka', sans-serif;
+    --ff-body: var(--ff-mulish2);
     --ff-heading: var(--ff-mulish);
     --ff-link: 'Rubik', sans-serif;
 
