@@ -23,9 +23,8 @@ const Newsletter = () => {
                         <div className="newsletter-content">
                             <SectionTitle
                                 titleOption="color-light text-center"
-                                title="Let’s find out how to work together"
-                                subTitle="Ready to start your project? The contact information collected through
-                                this form will only be used to send a response to your inquiry."
+                                title="Have A Project In Mind? Get Consulted Today!"
+                                subTitle="Get A FREE Software Development Consultation Today!"
                             />
                             <NewsletterForm mailchimpUrl="//devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef" />
                         </div>

@@ -20,8 +20,8 @@ const Portfolio = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5">
                             <SectionTitleTwo 
-                                subTitle="Portfolios"
-                                title="Selected works."
+                                subTitle="Witness our most recent projects that reflect our commitment to innovation and excellence."
+                                title="Latest Creations."
                             />
                     </div>
                     <div className="col-lg-7" data-aos="fade-up" data-aos-delay="300">
