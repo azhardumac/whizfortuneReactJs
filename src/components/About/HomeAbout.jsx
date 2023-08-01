@@ -24,9 +24,8 @@ const HomeAbout = () => {
             <div className="container">
 
                 <SectionTitle
-                    title="We are a full-service creative agency"
-                    subTitle="Our team of designers, developers and creatives are perfectionists
-                    who love what they do and love"
+                    title="We Ensure Your Business has Perfect Solutions."
+                    subTitle="At Whizfortune, we have been at the forefront of the digital and IT software and services industry since 2011."
                 />
 
                 <div className="row">
@@ -56,11 +55,10 @@ const HomeAbout = () => {
                         <div className="about-content-area">
                             <SectionTitleTwo 
                                 subTitle="Every day brings new challenges"
-                                title="Creative agency focused on vision, product and people"
+                                title="With a specialization in web design services for both small and large-scale enterprises"
                             />
 
-                            <p>We’re boldly individual, always original and refreshingly easy-going. Our vision, passion and ideas are matched
-                                with focus, expertise and flair.</p>
+                            <p>We are committed to providing top-quality digital solutions that help businesses thrive in the online world</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>About Us</Link>
                         </div>

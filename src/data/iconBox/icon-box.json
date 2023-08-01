@@ -46,6 +46,30 @@
         "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
         "pageLink": "Learn More",
         "link": "service"
+    },
+    {
+        "id": "7",
+        "icon": "images/svg/linea/linea-basic-display.svg",
+        "title": "Front End Development",
+        "desc": "Designing user-facing elements for websites and apps, ensuring an engaging and intuitive user experience.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "8",
+        "icon": "images/svg/linea/linea-basic-display.svg",
+        "title": "Microsoft Development",
+        "desc": "Building software and apps using Microsoft technologies like .NET, Azure, and Microsoft Office products.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "9",
+        "icon": "images/svg/linea/linea-basic-display.svg",
+        "title": "Software Development",
+        "desc": "Offering expertise to design, build, and maintain customized software applications.",
+        "pageLink": "Learn More",
+        "link": "service"
     }
     
 ]
