@@ -26,10 +26,10 @@ const Video = () => {
                 </div>
                 <SectionTitle
                     titleOption="color-light text-center"
-                    title="A full-service creative agency since 2007"
+                    title="We are a dynamic and creative software development and web design company."
                 />
 
-                <button className="play-btn icon video-popup" onClick={()=> setOpen(true)}><i className="fas fa-play"></i></button>
+                {/* <button className="play-btn icon video-popup" onClick={()=> setOpen(true)}><i className="fas fa-play"></i></button> */}
                 <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="v4uJvQINGmk" onClose={() => setOpen(false)}/>
 
             </div>

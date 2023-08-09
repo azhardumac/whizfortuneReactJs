@@ -10,7 +10,7 @@ const IntroSlider =  () => {
         spaceBetween: 0,
         slidesPerView: 1,
         autoplay: {
-            delay: 2500,
+            delay: 3500,
             disableOnInteraction: false,
         },
         navigation: true,

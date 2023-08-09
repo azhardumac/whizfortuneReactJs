@@ -47,11 +47,11 @@ const AboutFive = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Our solutions begin with brand research"
-                                title="We’ve worked alongside plenty of brands &amp; startups"
+                                subTitle="What Sets Us Apart"
+                                title="At WhizFortune, we don't just build software and design websites – we weave stories, craft identities, and engineer solutions that resonate. "
                             />
 
-                            <p>Our team of designers and developers are perfectionists who love what they do – we thrive off pushing the boundaries of our clients’ expectations and our own capabilities.</p>
+                            <p>Our approach is rooted in collaboration and creativity, where each project becomes an opportunity to merge cutting-edge technology with intuitive design. We pride ourselves on our ability to blend aesthetics with functionality, resulting in solutions that not only look impressive but also perform seamlessly.</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-12 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/"}>Get Started</Link>
                         </div>

@@ -21,7 +21,7 @@ const AboutUs = () => {
             <SEO title="Whizfortune || About" />
             <Header />
             <Breadcrumb 
-                image="images/bg/breadcrumb-bg.jpg"
+                image="images/bg/aboutbanner.jpg"
                 title="We are a software company Located in Pune"
                 content="Home"
                 contentTwo="About Us"

@@ -3,18 +3,12 @@
         "id": "1",
         "title": "Software Development and Digital Marketing",
         "desc": "Achieve Excellence with Custom Software Solutions Aligned with Your Business Goals",
-        "backgroundImage": "/images/hero-image/hero-2.jpg"
+        "backgroundImage": "/images/hero-image/background.jpg"
     },
     {
         "id": "2",
         "title": "Digital Solutions For Business Success",
         "desc": "At Whizfortune, we offer a range of design and development services to help your business succeed online",
-        "backgroundImage": "/images/hero-image/hero-1.jpg"
-    },
-    {
-        "id": "3",
-        "title": "No",
-        "desc": "No.",
-        "backgroundImage": "/images/hero-image/hero-3.jpg"
+        "backgroundImage": "/images/hero-image/background2.jpg"
     }
 ]

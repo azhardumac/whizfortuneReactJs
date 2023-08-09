@@ -5,17 +5,17 @@
         "list": [
             {
             "id": 1,
-            "text": "Marketing",
+            "text": "Software Development",
             "url": "/"
             },
             {
             "id": 2,
-            "text": "SEO/SEM",
+            "text": "Web Design",
             "url": "/"
             },
             {
             "id": 3,
-            "text": "Development",
+            "text": "SEO/SEM",
             "url": "/"
             },
             {
@@ -27,27 +27,27 @@
     },
     {
         "id": 2,
-        "title": "Products",
+        "title": "Quick Links",
         "list": [
             {
             "id": 1,
-            "text": "Elementor Guru",
+            "text": "Services",
             "url": "/"
             },
             {
             "id": 2,
-            "text": "WooLentor Pro",
+            "text": "Web Development",
             "url": "/"
             },
             {
             "id": 3,
-            "text": "Plugins",
+            "text": "Our Portfolio",
             "badge": "New",
             "url": "/"
             },
             {
             "id": 4,
-            "text": "Page Builder",
+            "text": "Blogs",
             "url": "/"
             }
         ]
@@ -58,7 +58,7 @@
         "list": [
             {
             "id": 1,
-            "text": "Features",
+            "text": "About Us",
             "url": "/"
             },
             {
@@ -68,12 +68,12 @@
             },
             {
             "id": 3,
-            "text": "Affiliate Program",
+            "text": "Careers at Whizfortune",
             "url": "/"
             },
             {
             "id": 4,
-            "text": "Pricing",
+            "text": "Features",
             "url": "/"
             }
         ]
@@ -84,7 +84,7 @@
         "list": [
             {
             "id": 1,
-            "text": "Support Ticket",
+            "text": "Support",
             "url": "/"
             },
             {

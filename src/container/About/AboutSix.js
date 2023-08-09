@@ -46,11 +46,11 @@ const AboutSix = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Innovative &amp; cutting-edge technology"
-                                title="We use latest technologies that are proven and practical"
+                                subTitle="Innovation as a Habit"
+                                title="At WhizFortune, we don't simply adapt to trends – we set them."
                             />
 
-                            <p>Our goal is to make the process easier for you. We provide our clients with the right tools for web development, hosting, e-commerce, security, content and marketing.</p>
+                            <p>Our team is continuously exploring new tools, techniques, and methodologies to ensure that we offer the most up-to-date solutions. We embrace challenges as opportunities to learn and grow, which is why our projects consistently showcase the latest advancements in the digital realm.</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-12 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/"}>Get Started</Link>
                         </div>

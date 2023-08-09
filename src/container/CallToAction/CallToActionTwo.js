@@ -8,9 +8,8 @@ const CallToActionTwo = () => {
             <div className="container text-center icon-up-down-animation">
                 <SectionTitle
                     headingOption="fz-34"
-                    title="Let's talk about your project and see how we can work together"
-                    subTitle="Our team of designers, developers and creatives are perfectionists
-                    who love what they do and love where they work"
+                    title="Have A Project In Mind? Get Consulted Today!"
+                    subTitle="Get A FREE Software Development Consultation Today!"
                 />
                 <Link className="btn btn-primary btn-hover-secondary" to={process.env.PUBLIC_URL + "/contact"} data-aos="fade-up" data-aos-delay="300">Contact Us</Link>
 

@@ -32,8 +32,8 @@ const AboutFour = () => {
                     <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
                             <SectionTitleTwo 
-                                subTitle="Web design and digital marketing"
-                                title="We think strategy, UX design, and web development"
+                                subTitle="Development, Design & Marketing"
+                                title="We are a dynamic and creative software development and web design company, dedicated to turning your digital dreams into reality."
                             />
 
                             <div className="row row-cols-sm-2 row-cols-auto mb-n6">
@@ -45,11 +45,11 @@ const AboutFour = () => {
                                                     offset={{ top: 10 }}
                                                     delayedCall
                                                     >
-                                                    <CountUp end={didViewCountUp ? 110 : 0} />
+                                                    <CountUp end={didViewCountUp ? 300 : 0} />
                                             </VisibilitySensor>+
                                         </div>
                                         <h6 className="text">Happy Clients</h6>
-                                        <p>We help our clients increase profits by increasing their visibility online.</p>
+                                        <p>Our success is intricately tied to the success of our clients and we take immense pride in the long-lasting relationships we&apos;ve built with our clients.</p>
                                     </div>
                                 </div>
                                 <div className="col mb-6">
@@ -60,11 +60,11 @@ const AboutFour = () => {
                                                 offset={{ top: 10 }}
                                                 delayedCall
                                                 >
-                                                <CountUp end={didViewCountUp ? 130 : 0} />
+                                                <CountUp end={didViewCountUp ? 500 : 0} />
                                             </VisibilitySensor>+
                                         </div>
                                         <h6 className="text">Completed projects</h6>
-                                        <p>We help our clients increase profits by increasing their visibility online.</p>
+                                        <p>Whether its developing robust software applications, user-centric websites, or implementing e-commerce platforms, our team&apos;s expertise knows no bounds.</p>
                                     </div>
                                 </div>
                             </div>
