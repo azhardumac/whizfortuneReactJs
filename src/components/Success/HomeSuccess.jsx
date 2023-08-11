@@ -28,12 +28,12 @@ const HomeSuccess = () => {
                         <div className="about-image-area right-0 skill-image-area">
                             <div className="about-image js-tilt">
                                 <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "images/skill/skill-1.jpg"} alt=""/>
+                                    <img src={process.env.PUBLIC_URL + "images/skill/undraw_skill7.jpg"} alt=""/>
                                 </Tilt>
                             </div>
                             <div className="about-image js-tilt">
                                 <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "images/skill/skill-2.jpg"} alt=""/>
+                                    <img src={process.env.PUBLIC_URL + "images/skill/undraw_skill5.jpg"} alt=""/>
                                 </Tilt>
                             </div>
                             <div className="shape shape-1" id="scene" ref={sceneEl}>

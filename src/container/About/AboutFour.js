@@ -75,7 +75,7 @@ const AboutFour = () => {
                         <div className="about-image-area about-shape-animation right-0 me-0">
                             <div className="about-image js-tilt">
                                 <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "images/about/about-1.jpg"} alt="" />
+                                    <img src={process.env.PUBLIC_URL + "images/about/about1.jpg"} alt="" />
                                 </Tilt>
                             </div>
                             <div className="about-image js-tilt">
